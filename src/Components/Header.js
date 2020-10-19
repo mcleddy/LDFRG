@@ -24,7 +24,7 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">Post Academic Careers </h1>
+            <h1 className="responsive-headline">Language Documentation and Fieldwork Reading Group </h1>
             <br></br>
          </div>
       </div>

@@ -9,7 +9,7 @@ class Contact extends Component {
             <div className="row section-head">
                <h1>For any questions please feel free to email us at:</h1>
                <div className="two columns header-col">
-                  <h2>pacuofa@gmail.com</h2>
+                  <h2 id="email">SOMETHING@SOMETHING.com</h2>
                </div>  
                <div className="row">
                <div className="twelve columns">

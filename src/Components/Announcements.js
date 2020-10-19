@@ -26,6 +26,7 @@ class Announcements extends Component {
                   </ul>
                </div>
             </div>
+            <hr></hr>
          </div>
    </section>
     );
